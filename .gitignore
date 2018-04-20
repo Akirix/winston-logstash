@@ -28,3 +28,7 @@ npm-debug.log
 test/runner.js
 
 test/support/logstash/*
+
+.settings
+.project
+.tern-project
